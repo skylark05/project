@@ -1,3 +1,3 @@
 # project
 
-Hello.
+Hello, World.
