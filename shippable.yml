@@ -1,4 +1,4 @@
 language: none
-build
+build:
   ci:
     - echo "Hello, World!"
